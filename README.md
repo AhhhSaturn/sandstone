@@ -1,6 +1,6 @@
 <div align="center"><img src=https://vignette.wikia.nocookie.net/minecraft/images/d/d6/Sandstone.png/></div>
 
-# Sandstone
+# Sandstone | Bun Edition
 
 ![GitHub](https://img.shields.io/github/license/sandstone-mc/sandstone)
 ![GitHub last commit](https://img.shields.io/github/last-commit/sandstone-mc/sandstone?color=blue)
